@@ -6,6 +6,6 @@ The main file where the codes are is <b><i>MainForm.cs</i></b>
 
 ##
 
-<video preload="auto" autoplay="true" loop="loop" muted="muted">
-  <source src="video/aplication.mp4" type="video/mp4">
-</video>
+Here is a gif of how the application works:
+
+<img src="https://j.gifs.com/jY8JWz.gif" width="60%"/>
