@@ -1,0 +1,14 @@
+C:\Users\uJão\Desktop\Escola\Programção\C#\Financeira\bin\Debug\Financeira.exe
+C:\Users\uJão\Desktop\Escola\Programção\C#\Financeira\bin\Debug\Financeira.pdb
+C:\Users\uJão\Desktop\Escola\Programção\C#\Financeira\obj\Debug\Financeira.csprojResolveAssemblyReference.cache
+C:\Users\uJão\Desktop\Escola\Programção\C#\Financeira\obj\Debug\Financeira.MainForm.resources
+C:\Users\uJão\Desktop\Escola\Programção\C#\Financeira\obj\Debug\Financeira.csproj.GenerateResource.Cache
+C:\Users\uJão\Desktop\Escola\Programção\C#\Financeira\obj\Debug\Financeira.exe
+C:\Users\uJão\Desktop\Escola\Programção\C#\Financeira\obj\Debug\Financeira.pdb
+C:\Users\uJão\Desktop\Programação\Escola\C#\Financeira\bin\Debug\Financeira.exe
+C:\Users\uJão\Desktop\Programação\Escola\C#\Financeira\bin\Debug\Financeira.pdb
+C:\Users\uJão\Desktop\Programação\Escola\C#\Financeira\obj\Debug\Financeira.csprojResolveAssemblyReference.cache
+C:\Users\uJão\Desktop\Programação\Escola\C#\Financeira\obj\Debug\Financeira.MainForm.resources
+C:\Users\uJão\Desktop\Programação\Escola\C#\Financeira\obj\Debug\Financeira.csproj.GenerateResource.Cache
+C:\Users\uJão\Desktop\Programação\Escola\C#\Financeira\obj\Debug\Financeira.exe
+C:\Users\uJão\Desktop\Programação\Escola\C#\Financeira\obj\Debug\Financeira.pdb
